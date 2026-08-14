@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Machine Learning models
+*.pkl
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Frontend build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

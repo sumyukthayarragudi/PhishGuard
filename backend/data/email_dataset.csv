@@ -1,0 +1,17 @@
+email,label
+"Hello, how are you? Let's meet tomorrow.",Safe
+"Your college assignment has been uploaded.",Safe
+"Thank you for your purchase. Your order has been shipped.",Safe
+"Your monthly statement is now available.",Safe
+"Meeting scheduled for tomorrow at 10 AM.",Safe
+"Please find the requested document attached.",Safe
+"Your password was changed successfully.",Safe
+"Your application has been received.",Safe
+"Urgent! Verify your account immediately by clicking this link.",Phishing
+"Your account will be suspended unless you verify your password.",Phishing
+"Congratulations! You have won a free gift. Click here to claim.",Phishing
+"Your bank account has been locked. Verify your details now.",Phishing
+"Click this link to update your payment information immediately.",Phishing
+"Your account security has been compromised. Login now to secure it.",Phishing
+"Claim your reward by providing your bank account details.",Phishing
+"Important: Confirm your password to avoid account suspension.",Phishing
