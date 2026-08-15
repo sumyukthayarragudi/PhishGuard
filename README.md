@@ -132,4 +132,19 @@ Email Detection
 
 POST /predict-email
 
-Analyzes email text and returns the phishing prediction and confidence score.
+Analyses email text and returns the phishing prediction and confidence score.
+
+## 🚀 Future Improvements
+
+- 🔐 Real-time URL and email monitoring
+- 📈 Improve model accuracy using larger and more diverse datasets
+- 🧠 Integrate advanced XAI techniques such as SHAP or LIME
+- 🌐 Deploy the application as a cloud-based service
+- 🔄 Add continuous model retraining with new phishing data
+- 🛡️ Add browser extension support for real-time phishing detection
+- 📧 Support email analysis from email platforms
+- 📊 Add detailed analytics and detection history
+- 🔔 Add alerts for high-risk phishing attempts
+
+
+👩‍💻Author: Yarragudi Sumyuktha
